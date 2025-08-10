@@ -1,4 +1,9 @@
 nginx 
-python
-mysql
-redis
+python3:13-slim
+mysql8:0
+redis7
+python3:11
+node20
+postgres14
+mongo6
+httpd2.4
