@@ -1,5 +1,3 @@
-nginx 
-python3:13-slim
 mysql8:0
 redis7
 python3:11
