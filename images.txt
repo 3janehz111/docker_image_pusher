@@ -1,7 +1,7 @@
-mysql:8:0
+mysql:8.0
 redis:7
-python:3:13-slim
-node:20
+python:3.13-slim
+node:22.17-slim
 postgres:14
 mongo:6
 httpd:2.4
