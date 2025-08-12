@@ -1,4 +1,4 @@
-mysql:8.0
+mysql:8
 redis:7
 python:3.13-slim
 node:22.17-slim
